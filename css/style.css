@@ -1,0 +1,59 @@
+/* site_header */
+
+.HContainer {
+    position: relative;
+    margin: auto;
+    background-color: rgb(4, 183, 238);
+    width: 70%;
+    max-height: 25%;
+}
+.IMGHeader {
+    width: 32%;
+    height: 25%;
+}
+.HLogo {
+    text-align: left;
+    width: 25%;
+    height: 25%;
+}
+
+/* site_main */
+
+.MContainer {
+    position: relative;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    width: 70%;
+    max-height: 100%;
+}
+
+/* First_section - Title */
+
+h1 {
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 300%;
+}
+
+#Azzurro {
+    color: rgb(5, 202, 252);
+}
+
+.FGrigio {
+    color: rgba(111, 115, 116, 0.5);
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.SGrigio {
+    color: rgba(111, 115, 116, 0.5);
+}
+
+p, li {
+    font-size: larger;
+}
+
+/* Third_section - Title */
+
+
+
